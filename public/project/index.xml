@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on @MartinSatt</title>
+    <link>https://martinsatt.netlify.com/project/</link>
+    <description>Recent content in Projects on @MartinSatt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Martin Sattelmayer &amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 27 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://martinsatt.netlify.com/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Assessment of movement control impairments of the neck</title>
+      <link>https://martinsatt.netlify.com/project/movement_control_neck/</link>
+      <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://martinsatt.netlify.com/project/movement_control_neck/</guid>
+      <description>We wrote a short blog post presenting some elements of this project.
+Body in mind blog
+ Patient profile   </description>
+    </item>
+    
+    <item>
+      <title>Assessments of procedures in physiotherapy education</title>
+      <link>https://martinsatt.netlify.com/project/assessment-procedures/</link>
+      <pubDate>Fri, 27 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://martinsatt.netlify.com/project/assessment-procedures/</guid>
+      <description>Practical procedures are a core component in physiotherapy education. In order to determine if a student has an adequate level of procedural competency educators need a valid and reliable way of determining this. Assessment tools can be used to evaluate individual students. Accrediting bodies could use these assessment tools to compare performance of skill competence across different physiotherapy programmes. Lastly, evidence is available that assessment tools can facilitate learning of practical procedures.</description>
+    </item>
+    
+    <item>
+      <title>LEArN trial</title>
+      <link>https://martinsatt.netlify.com/project/learn-trial/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://martinsatt.netlify.com/project/learn-trial/</guid>
+      <description>The World Confederation for Physical Therapy (2011) state in their educational policy, that learning and mastering of procedural skill is an essential part in the education of future physiotherapists. Procedural skills are defined as “a motor skill involving a series of discrete responses each of which must be performed at the appropriate time in the appropriate sequence” (Kent 2007, p. 437). Some researcher (e.g. Wulf et al. (2010)) suggested to apply a specific set of training principles, so called “motor learning principles”, derived from the learning of movement skills to the learning of procedural skills in health professions education.</description>
+    </item>
+    
+  </channel>
+</rss>

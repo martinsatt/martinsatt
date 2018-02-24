@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on @MartinSatt</title>
+    <link>https://martinsatt.netlify.com/home/</link>
+    <description>Recent content in Homes on @MartinSatt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Martin Sattelmayer &amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://martinsatt.netlify.com/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About motor learning, procedures and more</title>
+      <link>https://martinsatt.netlify.com/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://martinsatt.netlify.com/home/hero/</guid>
+      <description>🦄</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://martinsatt.netlify.com/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://martinsatt.netlify.com/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://martinsatt.netlify.com/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://martinsatt.netlify.com/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://martinsatt.netlify.com/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://martinsatt.netlify.com/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://martinsatt.netlify.com/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://martinsatt.netlify.com/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://martinsatt.netlify.com/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://martinsatt.netlify.com/home/teaching/</guid>
+      <description>I am a teaching instructor for the following courses at the HES-SO Valais-Wallis:
+ PHY_1006: An introduction to neurological rehabilitation PHY_1008: Active seniors PHY_2002: Neurological rehabilitation PHY_2005: Evidence based practice PHY_3001: Complex cases in neurological rehabilitation PHY_3008: Tutoring bachelor theses  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://martinsatt.netlify.com/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://martinsatt.netlify.com/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

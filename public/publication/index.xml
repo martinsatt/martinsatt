@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on @MartinSatt</title>
+    <link>https://martinsatt.netlify.com/publication/</link>
+    <description>Recent content in Publications on @MartinSatt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Martin Sattelmayer &amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://martinsatt.netlify.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A systematic review of assessments for procedural skills in physiotherapy education</title>
+      <link>https://martinsatt.netlify.com/publication/sr-assessments-ps/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://martinsatt.netlify.com/publication/sr-assessments-ps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effectiveness of conservative interventions including exercise, manual therapy and medical management in adults with shoulder impingement: a systematic review and meta-analysis of RCTs</title>
+      <link>https://martinsatt.netlify.com/publication/sr-shoulder2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://martinsatt.netlify.com/publication/sr-shoulder2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A systematic review and meta-analysis of selected motor learning principles in physiotherapy and medical education</title>
+      <link>https://martinsatt.netlify.com/publication/sr-motor-learning-hpe2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://martinsatt.netlify.com/publication/sr-motor-learning-hpe2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Développement d’une échelle d’évaluation des compétences procédurales dans la formation en physiothérapie: une étude de validation de la théorie de la réponse par item</title>
+      <link>https://martinsatt.netlify.com/publication/rasch_apspt29/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://martinsatt.netlify.com/publication/rasch_apspt29/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Use of Rasch analysis to investigate structural validity of a set of movement control tests for the neck</title>
+      <link>https://martinsatt.netlify.com/publication/rasch2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://martinsatt.netlify.com/publication/rasch2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Person Re-Identification System For Mobile Devices</title>
+      <link>https://martinsatt.netlify.com/publication/person-re-identification/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://martinsatt.netlify.com/publication/person-re-identification/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+  </channel>
+</rss>
