@@ -3,8 +3,8 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://martinsatt.netlify.com/"
-
+#baseurl = "https://martinsatt.netlify.com/"
+baseurl = "/"
 # Title of your site
 title = "@MartinSatt"
 

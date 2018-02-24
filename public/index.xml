@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>@MartinSatt on @MartinSatt</title>
-    <link>https://martinsatt.netlify.com/</link>
+    <link>/</link>
     <description>Recent content in @MartinSatt on @MartinSatt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Assessment of movement control impairments of the neck</title>
-      <link>https://martinsatt.netlify.com/project/movement_control_neck/</link>
+      <link>/project/movement_control_neck/</link>
       <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://martinsatt.netlify.com/project/movement_control_neck/</guid>
+      <guid>/project/movement_control_neck/</guid>
       <description>&lt;p&gt;We wrote a short blog post presenting some elements of this project.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://bodyinmind.org/movement-control-impairments-neck/&#34; target=&#34;_blank&#34;&gt;Body in mind blog&lt;/a&gt;&lt;/p&gt;
@@ -23,7 +23,7 @@
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://martinsatt.netlify.com/img/Rasch_neck_patientprofile.jpg&#34; /&gt;
+        &lt;img src=&#34;/img/Rasch_neck_patientprofile.jpg&#34; /&gt;
     
     
     &lt;figcaption&gt;
@@ -38,17 +38,17 @@
     
     <item>
       <title>Assessments of procedures in physiotherapy education</title>
-      <link>https://martinsatt.netlify.com/project/assessment-procedures/</link>
+      <link>/project/assessment-procedures/</link>
       <pubDate>Fri, 27 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://martinsatt.netlify.com/project/assessment-procedures/</guid>
+      <guid>/project/assessment-procedures/</guid>
       <description>&lt;p&gt;Practical procedures are a core component in physiotherapy education. In order to determine if a student has an adequate level of procedural competency educators need a valid and reliable way of determining this. Assessment tools can be used to evaluate individual students. Accrediting bodies could use these assessment tools to compare performance of skill competence across different physiotherapy programmes. Lastly, evidence is available that assessment tools can facilitate learning of practical procedures.
 The aim of this project was to i) synthesise relevant literature systematically to produce a review or conceptual analysis of current knowledge of assessments for procedural skills in physiotherapy education, 2) develop a preliminary assessment for the evaluation of procedural skills in physiotherapy education and 3) evaluate and critical appraise the measurement properties of the assessment for procedural skills in physiotherapy education.&lt;/p&gt;
 
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://martinsatt.netlify.com/img/APSPT-29.jpg&#34; /&gt;
+        &lt;img src=&#34;/img/APSPT-29.jpg&#34; /&gt;
     
     
     &lt;figcaption&gt;
@@ -63,44 +63,44 @@ The aim of this project was to i) synthesise relevant literature systematically 
     
     <item>
       <title>A systematic review of assessments for procedural skills in physiotherapy education</title>
-      <link>https://martinsatt.netlify.com/publication/sr-assessments-ps/</link>
+      <link>/publication/sr-assessments-ps/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://martinsatt.netlify.com/publication/sr-assessments-ps/</guid>
+      <guid>/publication/sr-assessments-ps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effectiveness of conservative interventions including exercise, manual therapy and medical management in adults with shoulder impingement: a systematic review and meta-analysis of RCTs</title>
-      <link>https://martinsatt.netlify.com/publication/sr-shoulder2017/</link>
+      <link>/publication/sr-shoulder2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://martinsatt.netlify.com/publication/sr-shoulder2017/</guid>
+      <guid>/publication/sr-shoulder2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Example Talk</title>
-      <link>https://martinsatt.netlify.com/talk/example-talk/</link>
+      <link>/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://martinsatt.netlify.com/talk/example-talk/</guid>
+      <guid>/talk/example-talk/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>LEArN trial</title>
-      <link>https://martinsatt.netlify.com/project/learn-trial/</link>
+      <link>/project/learn-trial/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://martinsatt.netlify.com/project/learn-trial/</guid>
+      <guid>/project/learn-trial/</guid>
       <description>&lt;p&gt;The World Confederation for Physical Therapy (2011) state in their educational policy, that learning and mastering of procedural skill is an essential part in the education of future physiotherapists. Procedural skills are defined as “a motor skill involving a series of discrete responses each of which must be performed at the appropriate time in the appropriate sequence” (Kent 2007, p. 437). Some researcher (e.g. Wulf et al. (2010)) suggested to apply a specific set of training principles, so called “motor learning principles”, derived from the learning of movement skills to the learning of procedural skills in health professions education. Within the LEArN study we explored the application of mental practice and different attentional foci on the acquisition of complex skills in physiotherpay education. The LEArN trial is one of my doctoral research projects at QMU&lt;/p&gt;
 
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://martinsatt.netlify.com/img/LEArN-Trial.jpg&#34; /&gt;
+        &lt;img src=&#34;/img/LEArN-Trial.jpg&#34; /&gt;
     
     
     &lt;figcaption&gt;
@@ -115,10 +115,10 @@ The aim of this project was to i) synthesise relevant literature systematically 
     
     <item>
       <title>Academic: the website designer for Hugo</title>
-      <link>https://martinsatt.netlify.com/post/getting-started/</link>
+      <link>/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://martinsatt.netlify.com/post/getting-started/</guid>
+      <guid>/post/getting-started/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;Academic&lt;/strong&gt; is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Check out the latest demo&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes. Then head on over to the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start guide&lt;/a&gt; or take a look at the &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34;&gt;Release Notes&lt;/a&gt;.&lt;/p&gt;
@@ -303,47 +303,47 @@ git submodule update --init --recursive
     
     <item>
       <title>A systematic review and meta-analysis of selected motor learning principles in physiotherapy and medical education</title>
-      <link>https://martinsatt.netlify.com/publication/sr-motor-learning-hpe2016/</link>
+      <link>/publication/sr-motor-learning-hpe2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://martinsatt.netlify.com/publication/sr-motor-learning-hpe2016/</guid>
+      <guid>/publication/sr-motor-learning-hpe2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Développement d’une échelle d’évaluation des compétences procédurales dans la formation en physiothérapie: une étude de validation de la théorie de la réponse par item</title>
-      <link>https://martinsatt.netlify.com/publication/rasch_apspt29/</link>
+      <link>/publication/rasch_apspt29/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://martinsatt.netlify.com/publication/rasch_apspt29/</guid>
+      <guid>/publication/rasch_apspt29/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Use of Rasch analysis to investigate structural validity of a set of movement control tests for the neck</title>
-      <link>https://martinsatt.netlify.com/publication/rasch2016/</link>
+      <link>/publication/rasch2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://martinsatt.netlify.com/publication/rasch2016/</guid>
+      <guid>/publication/rasch2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>https://martinsatt.netlify.com/publication/person-re-identification/</link>
+      <link>/publication/person-re-identification/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://martinsatt.netlify.com/publication/person-re-identification/</guid>
+      <guid>/publication/person-re-identification/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Hello R Markdown</title>
-      <link>https://martinsatt.netlify.com/post/2015-07-23-r-rmarkdown/</link>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Fri, 24 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://martinsatt.netlify.com/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
       <description>&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;R Markdown&lt;/h1&gt;
 &lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
@@ -377,7 +377,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;https://martinsatt.netlify.com/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;
